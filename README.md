@@ -1,6 +1,5 @@
 ### Olá! Eu sou Felipe Bellini
 
-- 🌱 Estou estudando Flutter.
 - 🔭 Trabalho na empresa Krykto como desenvolvedor Mobile Flutter.
 - 📫 Entre em contato comigo por felipe.bellini@krykto.com
 
